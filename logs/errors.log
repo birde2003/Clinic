@@ -1,0 +1,74 @@
+2025-01-25 20:33:22,663 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:33:22,668 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:33:22,681 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_203322_auto.db
+2025-01-25 20:33:22,682 - DBHandler - INFO - Database connection closed
+2025-01-25 20:34:11,754 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:34:11,784 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:34:11,812 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_203411_auto.db
+2025-01-25 20:34:11,813 - DBHandler - INFO - Database connection closed
+2025-01-25 20:37:32,568 - DBHandler - WARNING - Creating new database file
+2025-01-25 20:37:32,571 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:37:32,585 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:37:32,598 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_203732_auto.db
+2025-01-25 20:37:32,599 - DBHandler - INFO - Database connection closed
+2025-01-25 20:37:32,600 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:37:32,607 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:37:32,619 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_203732_auto.db
+2025-01-25 20:37:32,621 - DBHandler - INFO - Database connection closed
+2025-01-25 20:37:32,630 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_203732_manual.db
+2025-01-25 20:43:11,243 - DBHandler - WARNING - Creating new database file
+2025-01-25 20:43:11,245 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:43:11,291 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:43:11,305 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204311_auto.db
+2025-01-25 20:43:11,306 - DBHandler - INFO - Database connection closed
+2025-01-25 20:43:11,307 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:43:11,315 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:43:11,329 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204311_auto.db
+2025-01-25 20:43:11,330 - DBHandler - INFO - Database connection closed
+2025-01-25 20:43:11,342 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204311_manual.db
+2025-01-25 20:43:11,346 - DBHandler - ERROR - Restore failed: expected str, bytes or os.PathLike object, not bool
+2025-01-25 20:43:11,348 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:43:11,349 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:43:11,361 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204311_auto.db
+2025-01-25 20:43:11,362 - DBHandler - INFO - Database connection closed
+2025-01-25 20:49:14,433 - DBHandler - WARNING - Creating new database file
+2025-01-25 20:49:14,435 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:49:14,480 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:49:14,494 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204914_auto.db
+2025-01-25 20:49:14,495 - DBHandler - INFO - Database connection closed
+2025-01-25 20:49:14,496 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:49:14,505 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:49:14,518 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204914_auto.db
+2025-01-25 20:49:14,519 - DBHandler - INFO - Database connection closed
+2025-01-25 20:49:14,531 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204914_manual.db
+2025-01-25 20:49:14,534 - DBHandler - ERROR - Restore failed: expected str, bytes or os.PathLike object, not bool
+2025-01-25 20:49:14,536 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:49:14,536 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:49:14,547 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_204914_auto.db
+2025-01-25 20:49:14,549 - DBHandler - INFO - Database connection closed
+2025-01-25 20:51:38,254 - DBHandler - WARNING - Creating new database file
+2025-01-25 20:51:38,256 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:51:38,301 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:51:38,314 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_205138_auto.db
+2025-01-25 20:51:38,315 - DBHandler - INFO - Database connection closed
+2025-01-25 20:51:38,317 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:51:38,326 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:51:38,341 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_205138_auto.db
+2025-01-25 20:51:38,342 - DBHandler - INFO - Database connection closed
+2025-01-25 20:51:38,353 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_205138_manual.db
+2025-01-25 20:51:38,365 - DBHandler - INFO - Database restored from: backups\invoice_backup_20250125_205138_manual.db
+2025-01-25 20:51:38,369 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 20:51:38,370 - DBHandler - INFO - Transaction committed successfully
+2025-01-25 20:51:38,382 - DBHandler - INFO - Backup created: backups\invoice_backup_20250125_205138_auto.db
+2025-01-25 20:51:38,382 - DBHandler - INFO - Database connection closed
+2025-01-25 21:07:49,824 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 21:07:49,829 - DBHandler - ERROR - Missing required triggers: update_last_payment_date
+2025-01-25 21:07:49,829 - DBHandler - ERROR - Transaction rolled back due to error
+Traceback (most recent call last):
+  File "C:\Users\birde\Documents\Clinic\main.py", line 204, in connect_database
+    validate_db_schema(conn)
+    ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\birde\Documents\Clinic\database\db_handler.py", line 143, in validate_db_schema
+    raise DatabaseError(f"Schema validation failed - missing triggers: {', '.join(missing_triggers)}")
+database.db_handler.DatabaseError: Schema validation failed - missing triggers: update_last_payment_date
+2025-01-25 21:07:49,849 - DBHandler - INFO - Database connection closed

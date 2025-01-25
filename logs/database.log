@@ -1,0 +1,4 @@
+2025-01-25 16:19:33,616 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 16:19:33,617 - DBHandler - INFO - Database connection closed
+2025-01-25 16:39:35,739 - DBHandler - INFO - Connected to database at database/invoices.db
+2025-01-25 16:39:35,744 - DBHandler - INFO - Database connection closed
